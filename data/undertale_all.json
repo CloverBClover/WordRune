@@ -1,1 +1,5 @@
-data/undertale_all.json
+[
+  {"name":"Frisk","species":"Human","first_seen":0,"role":"Party","gender":"Unknown","in_deltarune":true},
+  {"name":"Sans","species":"Monster","first_seen":3,"role":"Boss","gender":"Male","in_deltarune":true},
+  {"name":"Papyrus","species":"Monster","first_seen":3,"role":"Enemy","gender":"Male","in_deltarune":true}
+]
