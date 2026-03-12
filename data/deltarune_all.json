@@ -1,0 +1,6 @@
+[
+  {"name":"Kris","light_dark":"Light","chapter":1,"role":"Party","gender":"Unknown","in_undertale":false},
+  {"name":"Susie","light_dark":"Dark","chapter":1,"role":"Party","gender":"Female","in_undertale":false},
+  {"name":"Ralsei","light_dark":"Light","chapter":1,"role":"Party","gender":"Male","in_undertale":false},
+  {"name":"Lancer","light_dark":"Dark","chapter":1,"role":"Enemy","gender":"Male","in_undertale":false}
+]
