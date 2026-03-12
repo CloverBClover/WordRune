@@ -12,11 +12,25 @@
 <div id="gameBoard"></div>
 
 <div class="input-area">
-  <input type="text" id="guessInput" placeholder="Enter character name">
-  <button id="submitBtn">Submit</button>
+  <input type="text" id="guessInput" placeholder="Character name">
+  <button id="submitBtn">Guess</button>
 </div>
 
-<div id="resultPanel"></div>
+<table id="gameTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Species / Light-Dark</th>
+      <th>First Seen / Chapter</th>
+      <th>Role</th>
+      <th>Gender</th>
+      <th>In Other Game</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- JS fills rows here -->
+  </tbody>
+</table>
 
 <script src="js/deltarune.js"></script>
 </body>
