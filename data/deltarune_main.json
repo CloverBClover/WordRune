@@ -25,7 +25,7 @@
   {"name":"Eram","light_dark":"Dark","chapter":3,"role":"Secret Boss","gender":"Unknown","in_undertale":false},
   {"name":"Knight","light_dark":"Light","chapter":3,"role":"Secret Boss","gender":"Unknown","in_undertale":false},
   {"name":"Dess","light_dark":"Light","chapter":3,"role":"HomeTown","gender":"Female","in_undertale":false},
-  {"name":"Asriel","light_dark":"Light","chapter":3,"role":"Party","gender":"Male","in_undertale":true},
+  {"name":"Asriel","light_dark":"Light","chapter":3,"role":"HomeTown","gender":"Male","in_undertale":true},
   {"name":"Gerson","light_dark":"Dark","chapter":4,"role":"Secret Boss","gender":"Male","in_undertale":false},
   {"name":"Titan","light_dark":"Dark","chapter":4,"role":"Main Boss","gender":"Male","in_undertale":false},
   {"name":"Jackenstien","light_dark":"Dark","chapter":4,"role":"Boss","gender":"Male","in_undertale":false},
